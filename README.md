@@ -23,6 +23,14 @@ La aplicacion debe permitir:
 
 Los entregables locales estan organizados por carpeta y los prototipos externos estan vinculados en la tabla.
 
+## Equipo
+
+- Luis Enrique Sanchez Cuellar - 206682
+- Erick Daniel Inocencio Alanis - 200154
+- Francisco Rios Rodriguez - 203397
+- Ivan Nava Benhumea - 213290
+- Fernando Meza Guzman - 213653
+
 ## Entregables
 
 | Entregable | Estado |
