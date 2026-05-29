@@ -37,15 +37,3 @@ Los entregables locales estan organizados por carpeta y los prototipos externos 
 | 1 reflexion sobre hallazgos y cambios del prototipo medio nivel | [reflexion](prototipo-medio-nivel/reflexion_medio_nivel.md) |
 | 1 prototipo a alto nivel | [Figma](https://www.figma.com/proto/25cSxKKzQLDf1UVrFfZ2ii/Cafe?node-id=0-1&p=f&t=r4dQQypZl5WaGk4V-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2) |
 | Backlog con al menos 10 user stories | [GitHub Projects](https://github.com/users/fermeza0536/projects/1/views/1) |
-
-## Backlog
-
-El backlog del proyecto se encuentra en GitHub Projects:
-
-https://github.com/users/fermeza0536/projects/1/views/1
-
-## Prototipo alto nivel
-
-El prototipo de alto nivel se encuentra en Figma:
-
-https://www.figma.com/proto/25cSxKKzQLDf1UVrFfZ2ii/Cafe?node-id=0-1&p=f&t=r4dQQypZl5WaGk4V-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2
