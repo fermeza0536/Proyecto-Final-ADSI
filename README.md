@@ -32,7 +32,7 @@ Las carpetas que todavia no tienen archivos se agregaran cuando exista el entreg
 | 3 pruebas del prototipo bajo nivel | En proceso: [prueba 1](prototipo-bajo-nivel/prueba1_bajo_nivel.mp4), [prueba 2](prototipo-bajo-nivel/prueba2_bajo_nivel.mp4). Falta prueba 3 |
 | 1 reflexion sobre hallazgos y cambios | Pendiente |
 | 1 prototipo a medio nivel | Pendiente |
-| 3 pruebas del segundo prototipo | Pendiente |
+| 3 pruebas del prototipo medio nivel | Listo: [prueba 1](https://app.lyssna.com/do/r6qqgefdw62y/nv7sdy), [prueba 2](https://app.lyssna.com/do/r8hvtktzxuri/gaxamk), [prueba 3](https://app.lyssna.com/do/s9znbioaw8lc/zl8pes) |
 | 1 reflexion sobre hallazgos y cambios | Pendiente |
 | 1 prototipo a alto nivel | Listo: [Figma](https://www.figma.com/proto/25cSxKKzQLDf1UVrFfZ2ii/Cafe?node-id=0-1&p=f&t=r4dQQypZl5WaGk4V-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2) |
 | Backlog con al menos 10 user stories | Listo: [GitHub Projects](https://github.com/users/fermeza0536/projects/1/views/1) |
