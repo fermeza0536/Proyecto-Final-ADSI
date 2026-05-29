@@ -30,7 +30,7 @@ Las carpetas que todavia no tienen archivos se agregaran cuando exista el entreg
 | 1 Customer Journey | Listo: [Cafe Consumidor](customer-journey/Cafe_Consumidor.png) |
 | 1 prototipo bajo nivel | Pendiente: agregar archivo en `prototipo-bajo-nivel/` |
 | 3 pruebas del prototipo bajo nivel | En proceso: [prueba 1](prototipo-bajo-nivel/prueba1_bajo_nivel.mp4), [prueba 2](prototipo-bajo-nivel/prueba2_bajo_nivel.mp4). Falta prueba 3 |
-| 1 reflexion sobre hallazgos y cambios | Pendiente |
+| 1 reflexion sobre hallazgos y cambios del prototipo bajo nivel | Listo: [reflexion](prototipo-bajo-nivel/reflexion.md) |
 | 1 prototipo a medio nivel | Listo: [Moqups](https://app.moqups.com/34CReHxvfdMNZGg28XrhPH9wkEsQkriv/view/page/ad64222d5) |
 | 3 pruebas del prototipo medio nivel | Listo: [prueba 1](https://app.lyssna.com/do/r6qqgefdw62y/nv7sdy), [prueba 2](https://app.lyssna.com/do/r8hvtktzxuri/gaxamk), [prueba 3](https://app.lyssna.com/do/s9znbioaw8lc/zl8pes) |
 | 1 reflexion sobre hallazgos y cambios | Pendiente |
