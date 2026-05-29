@@ -15,7 +15,7 @@ La aplicacion debe permitir:
 .
 ├── personas/
 ├── customer-journey/
-├── prototipo-papel/
+├── prototipo-bajo-nivel/
 ├── .gitignore
 └── README.md
 ```
@@ -28,8 +28,8 @@ Las carpetas que todavia no tienen archivos se agregaran cuando exista el entreg
 | --- | --- |
 | 3 personas | Listo: [Juan Cuellar](personas/Juan%20Cuellar.png), [Pepe Tono](personas/Pepe%20To%C3%B1o.png), [Semestrino el Primero](personas/Semestrino%20el%20Primero.png) |
 | 1 Customer Journey | Listo: [Cafe Consumidor](customer-journey/Cafe_Consumidor.png) |
-| 1 prototipo a papel | Pendiente: agregar archivo en `prototipo-papel/` |
-| 3 pruebas del prototipo a papel | En proceso: [prueba 1](prototipo-papel/prueba1_bajo_nivel.mp4), [prueba 2](prototipo-papel/prueba2_bajo_nivel.mp4). Falta prueba 3 |
+| 1 prototipo bajo nivel | Pendiente: agregar archivo en `prototipo-bajo-nivel/` |
+| 3 pruebas del prototipo bajo nivel | En proceso: [prueba 1](prototipo-bajo-nivel/prueba1_bajo_nivel.mp4), [prueba 2](prototipo-bajo-nivel/prueba2_bajo_nivel.mp4). Falta prueba 3 |
 | 1 reflexion sobre hallazgos y cambios | Pendiente |
 | 1 prototipo a medio nivel | Pendiente |
 | 3 pruebas del segundo prototipo | Pendiente |
